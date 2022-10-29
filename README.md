@@ -5,6 +5,7 @@ A smart contract with features to allow a number of participants to enroll into 
 Npm Library used in this project:
 
 Hardhat - https://www.npmjs.com/package/hardhat<br>
+Hardhat is an Ethereum development environment and framework designed for full stack development in Solidity. <br>
 Used for developing smart contract, compile and deploy.
 
 dotenv - https://www.npmjs.com/package/dotenv<br>
